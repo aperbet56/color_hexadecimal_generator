@@ -17,6 +17,7 @@ Lien vers le projet :
 - Utilisation des balises sémantiques HTML5
 - CSS3
 - Flexbox
+- Utilisation d'un normaliseur : le fichier normalize.css
 - Desktop first
 - Page web responsive
 - JavaScript
