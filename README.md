@@ -1,7 +1,23 @@
-Générateur de couleurs héxadécimales aléatoire
+## GENERATEUR DE COULEURS HEXADECIMALES ALEATOIRES
 
-- Petite application qui génére et affiche des couleurs héxadécimales de manière aléatoire.
+![Design preview for the project](./img/preview.png)
 
-- Au clic sur le bonton "Générer", le code héxadécimal va être générer aléatoirement et la couleur de background de la page va être modifiée pour correspondre au code héxadécimal généré.
+## Le challenge
 
-- Page responsive (elle s'adapte au format desktop, tablette et mobile)
+Création d'une petite application qui génére et affiche des couleurs héxadécimales de manière aléatoire.
+
+Au clic sur le bonton "Générer", le code héxadécimal va être générer aléatoirement et la couleur de background de la page va être modifiée pour correspondre au code héxadécimal généré.
+
+## Démonstration
+
+Lien vers le projet :
+
+## Projet développé avec
+
+- Utilisation des balises sémantiques HTML5
+- CSS3
+- Flexbox
+- Desktop first
+- Page web responsive
+- JavaScript
+- Code JavaScript commenté
