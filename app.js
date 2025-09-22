@@ -13,6 +13,7 @@ const generateColor = () => {
     // ffffff est la plus grande valeur héxadécimale
     // Tranformation du nombre aléatoire en valeur héxadécimale avec la méthode toString() de base 16 afin de bien obtenir une valeur héxadécimale
     const random = Math.floor(Math.random() * 0xffffff).toString(16);
+    //console.log(random);
 
     // Modification de la couleur de background
     body.style.backgroundColor = "#" + random;
